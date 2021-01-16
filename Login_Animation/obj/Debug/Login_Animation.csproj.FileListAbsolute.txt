@@ -1,0 +1,15 @@
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\bin\Debug\Login_Animation.exe.config
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\bin\Debug\Login_Animation.exe
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\bin\Debug\Login_Animation.pdb
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\obj\Debug\Login_Animation.csprojAssemblyReference.cache
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\obj\Debug\MainWindow.g.cs
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\obj\Debug\App.g.cs
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\obj\Debug\Login_Animation_MarkupCompile.cache
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\obj\Debug\Login_Animation_MarkupCompile.lref
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\obj\Debug\MainWindow.baml
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\obj\Debug\Login_Animation.g.resources
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\obj\Debug\Login_Animation.Properties.Resources.resources
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\obj\Debug\Login_Animation.csproj.GenerateResource.cache
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\obj\Debug\Login_Animation.csproj.CoreCompileInputs.cache
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\obj\Debug\Login_Animation.exe
+C:\Users\kukul\source\repos\Login_Animation\Login_Animation\obj\Debug\Login_Animation.pdb
